@@ -77,9 +77,3 @@ The model fits the data reasonably well despite using a simplistic time index as
 - `pandas`, `numpy`, `matplotlib`, `seaborn`
 - `sklearn`: preprocessing, model, evaluation
 - `plotly`: interactive visualization
-
----
-
-## Disclaimer
-
-This project is for **educational purposes only**. The dataset may be outdated and the model is **not suitable for investment decisions**.
